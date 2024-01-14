@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I have learned...
   * python in Process Fluid Mechanics in 2021-1
   * Foundation of Data Science in 2021 summer
-  * Homomorphic encryption and pi-heaan in Private AI Bootcamp 2022 summer
+  * Homomorphic encryption and pi-heaan at Private AI Bootcamp in 2022 summer (https://www.cryptolab.co.kr)
 - Experience
   * Web development intern (October to December, 2020) at AGL(https://www.aglgw.com/Home/Index/ko)
 - 👯 I’m looking to collaborate on python experts. 
