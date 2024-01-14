@@ -10,8 +10,7 @@
   * Homomorphic encryption and pi-heaan at Private AI Bootcamp in 2022 summer (https://www.cryptolab.co.kr)
 - Experience
   * Web development intern (October to December, 2020) at AGL(https://www.aglgw.com/Home/Index/ko)
-- 👯 I’m looking to collaborate on python experts. 
-- 🤔 I’m looking for help with python experts. 
+
 - 💬 Ask me about anything!
 - 📫 How to reach me: kthyung33@naver.com 
 - ⚡ Fun fact: I studied chemical and biological engineering in SNU
