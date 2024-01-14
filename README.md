@@ -2,8 +2,6 @@
 
 **xogud-kim/xogud-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently building a website using imweb (https://jpyorg.imweb.me)
   * working in sonoseason gallery
 - 🌱 I have learned...
