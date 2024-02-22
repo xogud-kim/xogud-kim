@@ -12,4 +12,4 @@
 
 - 💬 Ask me about anything!
 - 📫 How to reach me: kthyung33@naver.com 
-- ⚡ Fun fact: I studied chemical and biological engineering in SNU
+- ⚡ Fun fact: I studied chemical and biological engineering
